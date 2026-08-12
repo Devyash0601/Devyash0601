@@ -119,5 +119,5 @@ I build systems at the intersection of **published research** and **production M
 ---
 
 <div align="center">
-  <i>Open to research collaborations, MSc thesis discussions, and AI/ML engineering roles. Feel free to reach out via <a href="mailto:devashishkomiya@gmail.com">email</a>!</i>
+  <i>Open to research collaborations and AI/ML engineering roles. Feel free to reach out via <a href="mailto:devashishkomiya@gmail.com">email</a>!</i>
 </div>
