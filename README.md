@@ -19,7 +19,7 @@ I build systems at the intersection of **published research** and **production M
 
 - 🔭 Currently fine-tuning a domain-specific SLM and building agentic ticket-simulation systems at **Wipro**
 - 🛰️ First author on **Adaptive WGAST** (ECCS 2026) — weakly-supervised generative land surface temperature reconstruction from Landsat / Sentinel / MODIS
-- 🎯 Merging remote-sensing research with agentic AI infrastructure into one research direction
+- 🎯 Applying to MSc AI/ML programs in Europe — merging remote-sensing research with agentic AI infrastructure into one research direction
 - 🧭 Director, Society of Data Science @ BIT Mesra — ran a Transformers-from-scratch workshop in PyTorch for 100+ students
 - 💬 Ask me about agentic pipelines, RAG at scale, or weakly-supervised geospatial deep learning
 
@@ -150,7 +150,7 @@ Open-access study on reward modeling and policy optimization in RLHF, with empha
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devyash0601&theme=tokyonight&hide_border=true&background=00000000"/>
+<img src="https://streak-stats.demolab.com/?user=Devyash0601&theme=tokyonight&hide_border=true&background=00000000"/>
 </p>
 
 <p align="center">
@@ -175,12 +175,20 @@ Open-access study on reward modeling and policy optimization in RLHF, with empha
 
 > Renders automatically once the included `.github/workflows/snake.yml` action runs on your profile repo — see setup note below.
 
+<br/>
+
+## 🏆 Distinctions
+
+- 🥇 **IEEE MegaProject National Finalist** — Top 7 nationally, AI-driven stock-volatility prediction system
+- 🧑‍💻 **Director, Society of Data Science, BIT Mesra** — led technical initiatives and a 100+ student Transformers-from-scratch workshop
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:6E40C9&height=2&section=header" width="100%"/>
 
 <div align="center">
 
-📫 **devashishkomiya@gmail.com** &nbsp;•&nbsp; open to research collaborations and internships in AI/ML
+📫 **devashishkomiya@gmail.com** &nbsp;•&nbsp; open to MSc research collaborations and internships in AI/ML
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:1F6FEB&height=100&section=footer" width="100%"/>
 
