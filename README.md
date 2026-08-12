@@ -105,7 +105,7 @@ I build systems at the intersection of **published research** and **production M
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Devyash0601&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Devyash0601&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
