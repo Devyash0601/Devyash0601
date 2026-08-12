@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Devashish Komiya</h1>
+  <h1>Hi I am Devashish Komiya</h1>
 
   <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer+%E2%80%94+Agentic+Systems+%26+SLMs;First+Author+%E2%80%94+Adaptive+WGAST+(ECCS+2026);Building+Agentic+RAG+%26+Fine-tuning+SLMs;Geospatial+Deep+Learning+%26+Computer+Vision&font=Fira+Code&center=true&width=650&height=45&color=1F6FEB&vCenter=true&size=19&pause=1800&duration=3200" alt="Typing SVG"/>
 
@@ -102,10 +102,6 @@ I build systems at the intersection of **published research** and **production M
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devyash0601&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Devyash0601&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
