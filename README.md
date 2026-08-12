@@ -28,7 +28,6 @@ I build systems at the intersection of **published research** and **production M
 - 🎓 **Education**: B.Tech in Artificial Intelligence & Machine Learning at **BIT Mesra**.
 - 💼 **Current Role**: AI/ML Intern at **Wipro**, fine-tuning SLMs and developing agentic RAG architectures.
 - 🔬 **Research**: Published first-author paper on weakly-supervised generative models for geospatial mapping (**ECCS 2026**).
-- 🎯 **Looking For**: MSc research opportunities/collaborations in AI/ML across Europe and high-impact ML engineering roles.
 
 ---
 
