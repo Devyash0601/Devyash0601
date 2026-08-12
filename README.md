@@ -100,12 +100,12 @@ I build systems at the intersection of **published research** and **production M
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devyash0601&show_icons=true&theme=dark&rank_icon=github&border_color=1F6FEB&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyash0601&layout=compact&theme=dark&border_color=1F6FEB&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="170" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devyash0601&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devyash0601&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+</p>
 
-<br/>
+---
 
 ### 🐍 Contribution Graph
 
